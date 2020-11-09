@@ -1,0 +1,12 @@
+body {
+    padding: 1%;
+    font-family: sans-serif;
+}
+
+#pageTitle {
+    text-align: center;
+}
+.container {
+    border: 3px solid black;
+    padding : 1%;
+}
